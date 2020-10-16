@@ -9,6 +9,24 @@ An App for Blind People which speaks whatever the object is in front of them.
 
 <img src="images/vase.jpeg" />
 
+## Installation
+
+How to install Android Studio
+```bash
+https://developer.android.com/studio
+```
+OR
+
+How to install Visual Studio Code
+```bash
+https://code.visualstudio.com/
+```
+
+Clone this repository and import into **Android Studio**
+```bash
+https://github.com/DSC-IIIT-Surat/FlutterSpace
+```
+
 ## Contributing 
 
 Contributions are welcome! However, if it's going to be a major change, please create an issue first. Before starting to work 
